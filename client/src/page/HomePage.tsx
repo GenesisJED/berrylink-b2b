@@ -66,10 +66,10 @@ const HomePage = () => {
     return (
         <div className="min-h-screen bg-white">
             <Navbar />
-            
+
             {/* Hero Section */}
-            <section className="px-4 md:px-8 lg:px-20 xl:px-40 py-12 md:py-16 lg:py-20 pt-24 md:pt-28 lg:pt-32">
-                <div className="max-w-[1920px] mx-auto">
+            <section className="px-4 md:px-6 lg:px-10 xl:px-12 py-12 md:py-16 lg:py-20">
+                <div className="max-w-[2560px] mx-auto">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 lg:gap-12 items-center">
                         {/* Left Content */}
                         <div className="flex flex-col gap-4 md:gap-6">
@@ -118,8 +118,8 @@ const HomePage = () => {
             </section>
 
             {/* Seasonal Picks Section */}
-            <section className="bg-[#fffdf5] px-4 md:px-8 lg:px-20 xl:px-40 py-12 md:py-16 lg:py-20">
-                <div className="max-w-[1920px] mx-auto">
+            <section className="bg-[#fffdf5] px-4 md:px-6 lg:px-10 xl:px-12 py-12 md:py-16 lg:py-20">
+                <div className="max-w-[2560px] mx-auto">
                     {/* Section Header */}
                     <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-8 md:mb-10">
                         <div className="flex flex-col gap-2">
@@ -223,8 +223,8 @@ const HomePage = () => {
             </section>
 
             {/* The Berry Bliss Process Section */}
-            <section className="px-4 md:px-8 lg:px-20 xl:px-40 py-12 md:py-16 lg:py-20">
-                <div className="max-w-[1920px] mx-auto">
+            <section className="px-4 md:px-6 lg:px-10 xl:px-12 py-12 md:py-16 lg:py-20">
+                <div className="max-w-[2560px] mx-auto">
                     <div className="flex flex-col gap-12 md:gap-16">
                         {/* Section Header */}
                         <div className="flex flex-col gap-4 max-w-2xl">
@@ -288,8 +288,8 @@ const HomePage = () => {
             </section>
 
             {/* Newsletter Section */}
-            <section className="px-4 md:px-8 lg:px-20 xl:px-40 py-12 md:py-16 lg:py-20">
-                <div className="max-w-[1920px] mx-auto">
+            <section className="px-4 md:px-6 lg:px-10 xl:px-12 py-12 md:py-16 lg:py-20">
+                <div className="max-w-[2560px] mx-auto">
                     <div className="relative bg-[#ec1337] rounded-3xl overflow-hidden">
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 p-8 md:p-12 lg:p-16">
                             {/* Left Content */}

@@ -3,8 +3,8 @@ import { RiFacebookCircleFill, RiInstagramFill, RiTwitterXFill } from '@remixico
 const Footer = () => {
     return (
         <footer className="border-t border-black/5">
-            <div className="px-4 md:px-8 lg:px-20 xl:px-40 py-12 md:py-16 lg:py-20">
-                <div className="max-w-[1920px] mx-auto">
+            <div className="px-4 md:px-6 lg:px-10 xl:px-12 py-12 md:py-16 lg:py-20">
+                <div className="max-w-[2560px] mx-auto">
                     {/* Main Footer Content */}
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12 lg:gap-12 mb-12 lg:mb-16">
                         {/* Company Info */}
